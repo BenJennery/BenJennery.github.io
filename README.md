@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
     <td width="50%">
       <h3>Quantum Computing Sim</h3>
       <!-- <p>SIM INIT</p> -->
-      <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone1.1.png" width="100%">
+      <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone11.png" width="100%">
       <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%">
     </td>
     <td width="50%">
@@ -39,7 +39,6 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
   <tr>
     <td width="50%">
       <h3>CNN C++ </h3>
-      <!-- <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%"> -->
       <video width="100%" autoplay loop muted playsinline>
         <source src="https://raw.githubusercontent.com/BenJennery/ai-finds-a-circle/main/(x,y,1)(8)(3)(5)(1)23aug2026.mp4" type="video/mp4">
         Your browser does not support the video tag.
