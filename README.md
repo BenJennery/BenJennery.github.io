@@ -42,13 +42,15 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
     </td>
     <td width="50%">
       <h3>DUSC telem</h3>
-      <p>[Github](https://github.com/DUEM)</p>
+      <p>https://github.com/DUEM</p>
       <!-- <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%"> -->
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>PWA dev</h3>
+      <p>https://stroke-coach.netlify.app</p>
+      <p>https://fantastic-haupia-a9774f.netlify.app</p>
       <!-- <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%"> -->
     </td>
     <td width="50%">
