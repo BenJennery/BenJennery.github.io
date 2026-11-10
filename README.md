@@ -53,7 +53,10 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
     </td>
     <td width="50%">
       <h3>Godot Game dev</h3>
-      <img src="https://raw.githubusercontent.com/BenJennery/Godot/main/Generation.mp4" width="100%">
+      <video width="100%" autoplay loop muted playsinline>
+        <source src="https://raw.githubusercontent.com/BenJennery/Godot/main/Generation.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
     </td>
   </tr>
 </table>
