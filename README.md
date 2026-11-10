@@ -36,20 +36,21 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
     </td>
   </tr>
     <td width="50%">
-      <h3>AAA</h3>
+      <h3>CNN C++ library</h3>
       <!-- <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%"> -->
     </td>
     <td width="50%">
-      <h3>AAA</h3>
+      <h3>DUSC telem</h3>
+      <p>I didnt do much here lol</p>
       <!-- <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%"> -->
     </td>
   </tr>
     <td width="50%">
-      <h3>AAA</h3>
+      <h3>PWA dev</h3>
       <!-- <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%"> -->
     </td>
     <td width="50%">
-      <h3>AAA</h3>
+      <h3>Godot Game dev</h3>
       <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%">
     </td>
   </tr>
