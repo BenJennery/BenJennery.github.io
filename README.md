@@ -1,7 +1,8 @@
 # BenJennery
-Side Questing Styll
 
-# My Portfolio init
+<!-- Side Questing Styll -->
+
+# My Portfolio
 <!-- ## Section Heading (Use two ##) -->
 <!-- ### Sub-Section Heading (Use three ###) -->
 <!-- 
@@ -21,11 +22,20 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 -->
 
 
-https://private-user-images.githubusercontent.com/241100798/636231742-801e39e6-89cd-4fbd-82c2-9c2f2ff6a957.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzMDY5NzAsIm5iZiI6MTc5NDMwNjY3MCwicGF0aCI6Ii8yNDExMDA3OTgvNjM2MjMxNzQyLTgwMWUzOWU2LTg5Y2QtNGZiZC04MmMyLTljMmYyZmY2YTk1Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTExMFQxMDMxMTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02N2M1MDI3Zjc0NDUzNjc3NTIwYWRkYTdkNjNmZmU2YTk5YmJjYzE1N2M2ZGQ4OTQ5YTliMGIyNzhjOTdmZDgzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.fgbEcHDTNG30KvPCMIgyC6lJ14QHkb_wzFqiZoyBCW4
-
-
-
-
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Project 1: Acoustic Horn Design</h3>
+      <p>Designed and modeled a high-output low-frequency folded horn enclosure using MATLAB.</p>
+      <img src="speaker-design.png" width="100%">
+    </td>
+    <td width="50%">
+      <h3>Project 2: Circuit Transient Analysis</h3>
+      <p>Built and stress-tested customized RLC circuits to measure damping factors.</p>
+      <img src="circuit-test.png" width="100%">
+    </td>
+  </tr>
+</table>
 
 
 
