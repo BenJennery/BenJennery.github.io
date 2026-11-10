@@ -69,8 +69,6 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 
 
 
-(x,y,1)(8)(3)(5)(1)23aug2026.mp4
-
 
 
 [GitHub Profile](https://github.com/BenJennery).
