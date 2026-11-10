@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
     <td width="50%">
       <h3>CNN C++ </h3>
       <video width="100%" autoplay loop muted playsinline>
-        <source src="https://raw.githubusercontent.com/BenJennery/ai-finds-a-circle/main/(x,y,1)(8)(3)(5)(1)23aug2026.mp4" type="video/mp4">
+        <source src="https://raw.githubusercontent.com/BenJennery/ai-finds-a-circle/main/AItraining.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
