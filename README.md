@@ -60,7 +60,6 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 
 
 
-
-Check out my [GitHub Profile](https://github.com/BenJennery).
+[GitHub Profile](https://github.com/BenJennery).
 
 <!-- ![Caption of my project showing the speaker design](speaker-design.png) -->
