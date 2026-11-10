@@ -48,6 +48,7 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
   <tr>
     <td width="50%">
       <h3>PWA dev</h3>
+      <img src="https://raw.githubusercontent.com/BenJennery/accel/main/IMG_0186.PNG" width="100%">
       <p><a href="https://stroke-coach.netlify.app" target="_blank">Stroke Coach App</a></p>
       <p><a href="https://fantastic-haupia-a9774f.netlify.app" target="_blank">Project Two</a></p>
     </td>
@@ -60,6 +61,9 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
     </td>
   </tr>
 </table>
+
+
+
 
 
 
