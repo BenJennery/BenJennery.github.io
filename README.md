@@ -34,6 +34,7 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
       <!-- <p>Built and stress-tested customized RLC circuits to measure damping factors.</p> -->
       <!-- <img src="circuit-test.png" width="100%"> -->
     </td>
+  </tr>
     <td width="50%">
       <h3>AAA</h3>
       <!-- <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%"> -->
@@ -42,6 +43,7 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
       <h3>AAA</h3>
       <!-- <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%"> -->
     </td>
+  </tr>
     <td width="50%">
       <h3>AAA</h3>
       <!-- <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%"> -->
