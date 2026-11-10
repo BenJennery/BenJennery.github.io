@@ -49,8 +49,8 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
   <tr>
     <td width="50%">
       <h3>PWA dev</h3>
-      <p>https://stroke-coach.netlify.app</p>
-      <p>https://fantastic-haupia-a9774f.netlify.app</p>
+      <p>[one](https://stroke-coach.netlify.app)</p>
+      <p>[two](https://fantastic-haupia-a9774f.netlify.app)</p>
       <!-- <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%"> -->
     </td>
     <td width="50%">
