@@ -27,6 +27,7 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
     <td width="50%">
       <h3>Quantum Computing Sim</h3>
       <!-- <p>SIM INIT</p> -->
+      <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone1.1.png" width="100%">
       <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%">
     </td>
     <td width="50%">
