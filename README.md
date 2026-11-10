@@ -49,9 +49,8 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
   <tr>
     <td width="50%">
       <h3>PWA dev</h3>
-      <p>[one](https://stroke-coach.netlify.app)</p>
-      <p>[two](https://fantastic-haupia-a9774f.netlify.app)</p>
-      <!-- <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%"> -->
+      <p><a href="https://stroke-coach.netlify.app" target="_blank">Stroke Coach App</a></p>
+      <p><a href="https://fantastic-haupia-a9774f.netlify.app" target="_blank">Project Two</a></p>
     </td>
     <td width="50%">
       <h3>Godot Game dev</h3>
@@ -65,3 +64,8 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 [GitHub Profile](https://github.com/BenJennery).
 
 <!-- ![Caption of my project showing the speaker design](speaker-design.png) -->
+
+
+<!-- <a href="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%">
+</a> -->
