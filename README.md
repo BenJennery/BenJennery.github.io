@@ -1,8 +1,8 @@
-# BenJennery
+<!-- # BenJennery -->
 
 <!-- Side Questing Styll -->
 
-# My Portfolio
+<!-- # My Portfolio -->
 <!-- ## Section Heading (Use two ##) -->
 <!-- ### Sub-Section Heading (Use three ###) -->
 <!-- 
@@ -25,9 +25,9 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 <table>
   <tr>
     <td width="50%">
-      <h3>Project 1: Acoustic Horn Design</h3>
-      <p>Designed and modeled a high-output low-frequency folded horn enclosure using MATLAB.</p>
-      <img src="speaker-design.png" width="100%">
+      <h3>Project 1: Quantum Computing Sim</h3>
+      <p>SIM INIT</p>
+      <img src="[speaker-design.png](https://github.com/BenJennery/Q-comp/blob/main/Milestone2.png)" width="100%">
     </td>
     <td width="50%">
       <h3>Project 2: Circuit Transient Analysis</h3>
