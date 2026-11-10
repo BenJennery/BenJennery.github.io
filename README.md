@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
     </td>
     <td width="50%">
       <h3>DUSC telem</h3>
-      <p>I didnt do much here lol</p>
+      <p>[Github](https://github.com/DUEM)</p>
       <!-- <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%"> -->
     </td>
   </tr>
