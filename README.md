@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 -->
 
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%">
       <h3>Quantum Computing Sim</h3>
