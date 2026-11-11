@@ -7,6 +7,26 @@ $link-color: #3aafa9;
 
 @import "jekyll-theme-cayman";
 
+
+
+/* Modern Responsive Project Grid */
+.project-grid {
+  display: grid;
+  /* Creates 2 equal columns on desktop, and automatically drops to 1 column on mobile screens */
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 25px; /* Space between the cards */
+  margin-top: 20px;
+}
+
+/* Individual Project Card Styling */
+.project-card {
+  background: #ffffff;
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  padding: 20px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
 /* 2. Custom CSS Overrides (Go AFTER @import) */
 
 /* Expand container width and center it */
