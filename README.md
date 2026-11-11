@@ -33,9 +33,19 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
   
   <!-- Project Card 1 -->
   <div class="project-card">
-    <h3>Quantum Computing Sim</h3>
-    <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone11.png" width="100%">
+  <h3>Quantum Computing Sim</h3>
+  
+  <!-- 1. Scrollable Box Container -->
+  <div style="max-height: 350px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 10px; border-radius: 4px; background: #f8f9fa;">
+    <p>Simulation progression and milestones:</p>
+    <a href="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone11.png" target="_blank">
+      <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone11.png" width="100%">
+    </a>
+    <a href="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" target="_blank">
+      <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%">
+    </a>
   </div>
+</div>
 
   <!-- Project Card 2 -->
   <div class="project-card">
