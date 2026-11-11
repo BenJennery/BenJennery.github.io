@@ -28,26 +28,25 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 
 
 
-
-<div class="project-card">
+<div class="project-grid">
+  <div class="project-card">
   <!-- Make the project title link directly to your GitHub repo -->
-  <h3>
-    <a href="https://github.com/BenJennery/Q-comp" target="_blank" style="text-decoration: none; color: inherit;">
-      Quantum Computing Sim ↗
-    </a>
-  </h3>
-  
-  <!-- Scrollable Box Container for your images/milestones -->
-  <div style="max-height: 620px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 5px; border-radius: 4px; background: #f8f9fa;">
-    <p>Simulation progression and milestones:</p>
-    <a href="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone11.png" target="_blank">
-      <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone11.png" width="100%">
-    </a>
-    <a href="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" target="_blank">
-      <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%">
-    </a>
+    <h3>
+      <a href="https://github.com/BenJennery/Q-comp" target="_blank" style="text-decoration: none; color: inherit;">
+        Quantum Computing Sim ↗
+      </a>
+    </h3>
+    <!-- Scrollable Box Container for your images/milestones -->
+    <div style="max-height: 620px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 5px; border-radius: 4px; background: #f8f9fa;">
+      <p>Simulation progression and milestones:</p>
+      <a href="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone11.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone11.png" width="100%">
+      </a>
+      <a href="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%">
+      </a>
+    </div>
   </div>
-</div>
 
   <!-- Project Card 2 -->
   <div class="project-card">
