@@ -22,6 +22,43 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 -->
 
 
+
+
+
+
+<div class="project-grid">
+  
+  <!-- Project Card 1 -->
+  <div class="project-card">
+    <h3>Quantum Computing Sim</h3>
+    <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone11.png" width="100%">
+  </div>
+
+  <!-- Project Card 2 -->
+  <div class="project-card">
+    <h3>Godot Game dev</h3>
+    <video width="100%" autoplay loop muted playsinline>
+      <source src="https://raw.githubusercontent.com/BenJennery/Godot/main/Generation.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <!-- Project Card 3: Easily add more whenever you want! -->
+  <div class="project-card">
+    <h3>DUSC telem</h3>
+    <p><a href="https://github.com/DUEM" target="_blank">DUSC Github</a></p>
+  </div>
+
+</div>
+
+
+
+
+
+
+
+
+
 <table width="100%">
   <tr>
     <td width="50%">
