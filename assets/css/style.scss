@@ -13,7 +13,7 @@ $link-color: #3aafa9;
 .project-grid {
   display: grid;
   /* Creates 2 equal columns on desktop, and automatically drops to 1 column on mobile screens */
-  grid-template-columns: repeat(auto-fit, minmax(00px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   gap: 20px; /* Space between the cards */
   margin-top: 20px;
 }
