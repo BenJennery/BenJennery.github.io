@@ -26,6 +26,9 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 
 
 
+
+
+
 <div class="project-grid">
   
   <!-- Project Card 1 -->
