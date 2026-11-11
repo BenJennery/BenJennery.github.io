@@ -72,12 +72,11 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
   
   <!-- Your AI Finds a Circle Project Card -->
   <div class="project-card">
-    <h3>
+    <!--<h3>
       <a href="https://benjennery.github.io/ai-finds-a-circle/" target="_blank" style="text-decoration: none; color: inherit;">
         Convolutional Neural Network ↗
       </a>
-    </h3>
-]
+    </h3>-->
     <!-- Live Preview Iframe showing your sub-site right on your homepage -->
     <div style="height: 620px; overflow: hidden; border: 0px solid #e1e4e8; border-radius: 0px; background: #fff;">
       <iframe src="https://benjennery.github.io/ai-finds-a-circle/" width="100%" height="100%" style="border: none;"></iframe>
