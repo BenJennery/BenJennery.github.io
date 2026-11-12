@@ -78,7 +78,6 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
   </a>
 </div>
 
-</div>
 
 
 
