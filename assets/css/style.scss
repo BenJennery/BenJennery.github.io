@@ -14,7 +14,7 @@ $link-color: #3aafa9;
   display: grid;
   /* Creates 2 equal columns on desktop, and automatically drops to 1 column on mobile screens */
   grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
-  gap: 20px; /* Space between the cards */
+  gap: 40px; /* Space between the cards */
   margin-top: 20px;
 }
 
