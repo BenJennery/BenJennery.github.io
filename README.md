@@ -72,23 +72,22 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
   
   <!-- Your AI Finds a Circle Project Card -->
   <div class="project-card">
-    <!--<h3>
-      <a href="https://benjennery.github.io/ai-finds-a-circle/" target="_blank" style="text-decoration: none; color: inherit;">
-        Convolutional Neural Network ↗
-      </a>
-    </h3>-->
-    <!-- Live Preview Iframe showing your sub-site right on your homepage -->
-   <a href="https://benjennery.github.io/Convolutional-Neural-Network/" target="_blank" style="display: block; position: relative; text-decoration: none;">
+  <h3>
+    <a href="https://benjennery.github.io/Convolutional-Neural-Network/" target="_blank" style="text-decoration: none; color: inherit;">
+      Convolutional Neural Network ↗
+    </a>
+  </h3>
+  
+  <!-- Wrapper link that makes the whole preview box clickable -->
+  <a href="https://benjennery.github.io/Convolutional-Neural-Network/" target="_blank" style="display: block; position: relative; text-decoration: none;">
     <!-- Transparent overlay layer that catches clicks over the iframe -->
     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10;"></div>
     <!-- Live Preview Iframe -->
     <div style="height: 620px; overflow: hidden; border: 0px solid #e1e4e8; border-radius: 0px; background: #fff;">
       <iframe src="https://benjennery.github.io/Convolutional-Neural-Network/" width="100%" height="100%" style="border: none;"></iframe>
     </div>
-   </a>
-  </div>
-
- </div>
+  </a>
+</div>
 
 </div>
 
