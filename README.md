@@ -78,12 +78,17 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
       </a>
     </h3>-->
     <!-- Live Preview Iframe showing your sub-site right on your homepage -->
+   <a href="https://benjennery.github.io/Convolutional-Neural-Network/" target="_blank" style="display: block; position: relative; text-decoration: none;">
+    <!-- Transparent overlay layer that catches clicks over the iframe -->
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10;"></div>
+    <!-- Live Preview Iframe -->
     <div style="height: 620px; overflow: hidden; border: 0px solid #e1e4e8; border-radius: 0px; background: #fff;">
       <iframe src="https://benjennery.github.io/Convolutional-Neural-Network/" width="100%" height="100%" style="border: none;"></iframe>
     </div>
+   </a>
   </div>
 
-</div>
+ </div>
 
 </div>
 
