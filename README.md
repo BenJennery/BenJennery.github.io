@@ -66,11 +66,6 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
   
   <!-- Your AI Finds a Circle Project Card -->
   <div class="project-card">
-  <h3>
-    <a href="https://benjennery.github.io/Convolutional-Neural-Network/" target="_blank" style="text-decoration: none; color: inherit;">
-      Convolutional Neural Network ↗
-    </a>
-  </h3>
   
   <!-- Wrapper link that makes the whole preview box clickable -->
   <a href="https://benjennery.github.io/Convolutional-Neural-Network/" target="_blank" style="display: block; position: relative; text-decoration: none;">
