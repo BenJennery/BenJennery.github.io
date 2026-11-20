@@ -93,8 +93,10 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
       <!-- Transparent overlay layer that catches clicks over the iframe -->
       <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10;"></div>
       <!-- Live Preview Iframe -->
-      <div style="height: 620px; overflow: hidden; border: 0px solid #e1e4e8; border-radius: 0px; background: #fff;">
-        <iframe src="https://benjennery.github.io/Q-comp/" width="100%" height="100%" style="border: none;"></iframe>
+      <div style="max-height: 620px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 5px; border-radius: 4px; background: #f8f9fa;">
+        <div style="height: 620px; overflow: hidden; border: 0px solid #e1e4e8; border-radius: 0px; background: #fff;">
+          <iframe src="https://benjennery.github.io/Q-comp/" width="100%" height="100%" style="border: none;"></iframe>
+        </div>
       </div>
     </a>
   </div>
