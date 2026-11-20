@@ -51,12 +51,25 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
     </video>
   </div>
 
-  <!-- Project Card 3: Easily add more whenever you want! -->
+
   <div class="project-card">
-    <h3>DUSC telem</h3>
-    <p><a href="https://github.com/DUEM" target="_blank">DUSC Github</a></p>
+    <!-- Wrapper link that makes the whole preview box clickable -->
+    <a href="https://benjennery.github.io/Q-comp/" target="_blank" style="display: block; position: relative; text-decoration: none;">
+      <!-- Transparent overlay layer that catches clicks over the iframe -->
+      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10;"></div>
+      <!-- Live Preview Iframe -->
+      <div style="height: 620px; overflow: hidden; border: 0px solid #e1e4e8; border-radius: 0px; background: #fff;">
+        <iframe src="https://benjennery.github.io/Q-comp/" width="100%" height="100%" style="border: none;"></iframe>
+      </div>
+    </a>
   </div>
-  <div class="project-grid">
+
+
+
+
+
+
+
 
   <div class="project-card">
     <!-- Wrapper link that makes the whole preview box clickable -->
@@ -72,7 +85,6 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 
 
 
-  
   <!-- Your AI Finds a Circle Project Card -->
   <div class="project-card">
     <!-- Wrapper link that makes the whole preview box clickable -->
@@ -85,6 +97,17 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
       </div>
     </a>
   </div>
+
+
+  <div class="project-card">
+    <h3>DUSC telem</h3>
+    <p><a href="https://github.com/DUEM" target="_blank">DUSC Github</a></p>
+  </div>
+
+
+
+
+  
 </div>
 
 
