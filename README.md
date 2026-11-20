@@ -1,6 +1,5 @@
 <!-- # BenJennery -->
 
-<!-- Side Questing Styll -->
 
 <!-- # My Portfolio -->
 <!-- ## Section Heading (Use two ##) -->
