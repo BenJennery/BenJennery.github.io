@@ -29,42 +29,6 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 
 
 <div class="project-grid">
-  <div class="project-card">
-    <!-- Scrollable Box Container for your images/milestones -->
-    <div style="max-height: 620px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 5px; border-radius: 4px; background: #f8f9fa;">
-      <p>Simulation progression and milestones:</p>
-      <a href="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone11.png" target="_blank">
-        <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone11.png" width="100%">
-      </a>
-      <a href="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" target="_blank">
-        <img src="https://raw.githubusercontent.com/BenJennery/Q-comp/main/Milestone2.png" width="100%">
-      </a>
-    </div>
-  </div>
-
-  <!-- Project Card 2 -->
-  <div class="project-card">
-    <h3>Godot Game dev</h3>
-    <video width="100%" autoplay loop muted playsinline>
-      <source src="https://raw.githubusercontent.com/BenJennery/Godot/main/Generation.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-
-  <div class="project-card">
-    <!-- Wrapper link that makes the whole preview box clickable -->
-    <a href="https://benjennery.github.io/Q-comp/" target="_blank" style="display: block; position: relative; text-decoration: none;">
-      <!-- Transparent overlay layer that catches clicks over the iframe -->
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10;"></div>
-      <!-- Live Preview Iframe -->
-      <div style="height: 620px; overflow: hidden; border: 0px solid #e1e4e8; border-radius: 0px; background: #fff;">
-        <iframe src="https://benjennery.github.io/Q-comp/" width="100%" height="100%" style="border: none;"></iframe>
-      </div>
-    </a>
-  </div>
-
-
 
 
 
@@ -85,6 +49,8 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 
 
 
+
+
   <!-- Your AI Finds a Circle Project Card -->
   <div class="project-card">
     <!-- Wrapper link that makes the whole preview box clickable -->
@@ -99,9 +65,37 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
   </div>
 
 
+
+
+
+
   <div class="project-card">
-    <h3>DUSC telem</h3>
-    <p><a href="https://github.com/DUEM" target="_blank">DUSC Github</a></p>
+    <!-- Wrapper link that makes the whole preview box clickable -->
+    <a href="https://benjennery.github.io/Q-comp/" target="_blank" style="display: block; position: relative; text-decoration: none;">
+      <!-- Transparent overlay layer that catches clicks over the iframe -->
+      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10;"></div>
+      <!-- Live Preview Iframe -->
+      <div style="height: 620px; overflow: hidden; border: 0px solid #e1e4e8; border-radius: 0px; background: #fff;">
+        <iframe src="https://benjennery.github.io/Q-comp/" width="100%" height="100%" style="border: none;"></iframe>
+      </div>
+    </a>
+  </div>
+
+
+
+
+
+
+  <div class="project-card">
+    <!-- Wrapper link that makes the whole preview box clickable -->
+    <a href="https://benjennery.github.io/Godot/" target="_blank" style="display: block; position: relative; text-decoration: none;">
+      <!-- Transparent overlay layer that catches clicks over the iframe -->
+      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10;"></div>
+      <!-- Live Preview Iframe -->
+      <div style="height: 620px; overflow: hidden; border: 0px solid #e1e4e8; border-radius: 0px; background: #fff;">
+        <iframe src="https://benjennery.github.io/Godot/" width="100%" height="100%" style="border: none;"></iframe>
+      </div>
+    </a>
   </div>
 
 
