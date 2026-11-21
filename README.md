@@ -37,7 +37,19 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 
 -->
 
+<script>
+  document.querySelectorAll('.project-card-link').forEach(link => {
+    let scrollTimer;
 
+    link.addEventListener('wheel', () => {
+      link.style.pointerEvents = 'none';
+      clearTimeout(scrollTimer);
+      scrollTimer = setTimeout(() => {
+        link.style.pointerEvents = 'auto';
+      }, 250);
+    }, { passive: true });
+  });
+</script>
 
 
 
