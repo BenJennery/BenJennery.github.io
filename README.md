@@ -10,7 +10,6 @@
 * Bullet point item one
 * Bullet point item two
 
-
 https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 
 
