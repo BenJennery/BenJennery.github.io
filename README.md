@@ -38,12 +38,6 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 -->
 
 
-
-<div class="project-grid">
-
-
-
-
 <div class="project-card">
     <!-- Top bar or badge so users also have an obvious click target -->
     <a href="https://www.durham.ac.uk/departments/academic/engineering/undergraduate-study/solar-car/" 
@@ -61,17 +55,7 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
     </iframe>
   </div>
 
-
-
-
-
-
-
-
-
-
-
-
+ <!------------------------------------------->
 
   <div class="project-card">
     <!-- Wrapper link that makes the whole preview box clickable -->
