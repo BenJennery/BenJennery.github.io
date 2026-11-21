@@ -49,6 +49,35 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 
 
 
+  <div class="project-card">
+    <div id="preview-box" style="position: relative; height: 620px; border: 1px solid #e1e4e8; border-radius: 4px; overflow: hidden; background: #fff;">
+      <!-- Top bar or badge so users also have an obvious click target -->
+      <a href="https://www.durham.ac.uk/departments/academic/engineering/undergraduate-study/solar-car/" 
+         target="_blank" 
+         rel="noopener noreferrer"
+         style="position: absolute; top: 10px; right: 10px; z-index: 20; background: rgba(0,0,0,0.75); color: #fff; padding: 6px 12px; border-radius: 4px; font-size: 13px; text-decoration: none;">
+        Open full site ↗
+      </a>
+      <!-- Live iframe (scrollable) -->
+      <iframe 
+        src="https://www.durham.ac.uk/departments/academic/engineering/undergraduate-study/solar-car/" 
+        width="100%" 
+        height="100%" 
+        style="border: none;">
+      </iframe>
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
 
 
   <div class="project-card">
@@ -88,17 +117,17 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 
 
   <div class="project-card">
+    <div style="max-height: 620px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 5px; border-radius: 4px; background: #f8f9fa;">
     <!-- Wrapper link that makes the whole preview box clickable -->
-    <a href="https://benjennery.github.io/Q-comp/" target="_blank" style="display: block; position: relative; text-decoration: none;">
-      <div style="max-height: 620px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 5px; border-radius: 4px; background: #f8f9fa;">
+      <a href="https://benjennery.github.io/Q-comp/" target="_blank" style="display: block; position: relative; text-decoration: none;">
         <!-- Transparent overlay layer that catches clicks over the iframe -->
         <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10;"></div>
         <!-- Live Preview Iframe -->
         <div style="height: 620px; overflow: hidden; border: 0px solid #e1e4e8; border-radius: 0px; background: #fff;">
           <iframe src="https://benjennery.github.io/Q-comp/" width="100%" height="100%" style="border: none;"></iframe>
         </div>
-      </div>
-    </a>
+      </a>
+    </div>
   </div>
 
 
