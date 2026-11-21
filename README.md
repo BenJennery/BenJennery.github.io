@@ -38,38 +38,7 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 -->
 
 <div class="project-grid">
-  <div class="project-card">
-    <!-- Top bar or badge so users also have an obvious click target -->
-    <a href="https://www.durham.ac.uk/departments/academic/engineering/undergraduate-study/solar-car/" 
-       target="_blank" 
-       rel="noopener noreferrer"
-       style="position: absolute; top: 10px; right: 10px; z-index: 20; background: rgba(0,0,0,0.75); color: #fff; padding: 6px 12px; border-radius: 4px; font-size: 13px; text-decoration: none;">
-      Open full site ↗
-    </a>
-    <!-- Live iframe (scrollable) -->
-    <iframe 
-      src="https://www.durham.ac.uk/departments/academic/engineering/undergraduate-study/solar-car/" 
-      width="100%" 
-      height="100%" 
-      style="border: none;">
-    </iframe>
-  </div>
-
- <!------------------------------------------->
-
-  <div class="project-card">
-    <!-- Wrapper link that makes the whole preview box clickable -->
-    <a href="https://www.durham.ac.uk/departments/academic/engineering/undergraduate-study/solar-car/" target="_blank" style="display: block; position: relative; text-decoration: none;">
-      <!-- Transparent overlay layer that catches clicks over the iframe -->
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10;"></div>
-      <!-- Live Preview Iframe -->
-      <div style="height: 620px; overflow: hidden; border: 0px solid #e1e4e8; border-radius: 0px; background: #fff;">
-        <iframe src="https://www.durham.ac.uk/departments/academic/engineering/undergraduate-study/solar-car/" width="100%" height="100%" style="border: none;"></iframe>
-      </div>
-    </a>
-  </div>
-
-
+  
 
 
 
@@ -118,6 +87,23 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
       </div>
     </a>
   </div>
+
+
+
+
+  <div class="project-card">
+    <!-- Wrapper link that makes the whole preview box clickable -->
+    <a href="https://www.durham.ac.uk/departments/academic/engineering/undergraduate-study/solar-car/" target="_blank" style="display: block; position: relative; text-decoration: none;">
+      <!-- Transparent overlay layer that catches clicks over the iframe -->
+      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10;"></div>
+      <!-- Live Preview Iframe -->
+      <div style="height: 620px; overflow: hidden; border: 0px solid #e1e4e8; border-radius: 0px; background: #fff;">
+        <iframe src="https://www.durham.ac.uk/departments/academic/engineering/undergraduate-study/solar-car/" width="100%" height="100%" style="border: none;"></iframe>
+      </div>
+    </a>
+  </div>
+
+
 
 
 
