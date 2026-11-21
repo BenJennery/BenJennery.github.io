@@ -116,6 +116,39 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 
 
 
+
+<!-- .................... -->
+
+<div class="project-card" style="position: relative;">
+  <!-- Clickable link over the preview -->
+  <a href="https://benjennery.github.io/Neural-Network/"
+     target="_blank"
+     rel="noopener noreferrer"
+     class="project-card-link"
+     aria-label="Open Neural Network project"
+     style="position: absolute; inset: 0; z-index: 10; display: block;">
+  </a>
+
+  <!-- Live Preview Iframe -->
+  <div class="project-card-preview" style="height: 620px; overflow: hidden; border: 0px solid #e1e4e8; border-radius: 0px; background: #fff;">
+    <iframe
+      src="https://benjennery.github.io/Neural-Network/"
+      width="100%"
+      height="100%"
+      style="border: none; display: block;">
+    </iframe>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
   <div class="project-card">
     <div style="max-height: 620px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 5px; border-radius: 4px; background: #f8f9fa;">
     <!-- Wrapper link that makes the whole preview box clickable -->
