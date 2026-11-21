@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 <p style="color: #cccc99;">
   I am still working on this site. feel free to reach out.
 </p>
-<a href="benfarm9@outlook.com">benfarm9@outlook.com</a>
+<a href="mailto:benfarm9@outlook.com">benfarm9@outlook.com</a>
 
 
 
