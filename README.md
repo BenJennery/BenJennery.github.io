@@ -121,7 +121,7 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
 
 <div class="project-card" style="position: relative;">
   <!-- Clickable link over the preview -->
-  <a href="https://benjennery.github.io/Neural-Network/"
+  <a href="https://benjennery.github.io/Q-comp/"
      target="_blank"
      rel="noopener noreferrer"
      class="project-card-link"
@@ -132,7 +132,7 @@ https://raw.githubusercontent.com/username/repository-name/main/folder/image.gif
   <!-- Live Preview Iframe -->
   <div class="project-card-preview" style="height: 620px; overflow: hidden; border: 0px solid #e1e4e8; border-radius: 0px; background: #fff;">
     <iframe
-      src="https://benjennery.github.io/Neural-Network/"
+      src="https://benjennery.github.io/Q-comp/"
       width="100%"
       height="100%"
       style="border: none; display: block;">
